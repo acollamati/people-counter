@@ -1,4 +1,4 @@
-from shop_counter.input_source import InputSource
+from people_counter.simple_classes import InputSource
 
 
 class InputFrame:
